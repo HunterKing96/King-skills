@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "repository": "https://github.com/hugohe3/ppt-master",
+      "commit": "f3633771fe699d327f02ae86393831bbcf5169f7",
+      "skills": [
+        "ppt-master"
+      ]
+    },
+    {
+      "repository": "https://github.com/HKUSTDial/Supervisor-Skills",
+      "commit": "a20d76ef3979b804d7dbf599d577826957e0a8a9",
+      "skills": [
+        "benchmark-paper-template",
+        "deep-research",
+        "drawio-reconstruction",
+        "figure-designer",
+        "idea-evaluator",
+        "intro-drafter",
+        "paper-polish",
+        "paper-writer",
+        "pre-submission-reviewer",
+        "rebuttal-guidance",
+        "tech-paper-template",
+        "vibe-research-workflow"
+      ]
+    }
+  ],
+  "unavailable": [
+    {
+      "repository": "https://github.com/Acyeee/gpt-writing",
+      "reason": "Repository not found via platform Git authentication; not installed or substituted."
+    }
+  ]
+}
