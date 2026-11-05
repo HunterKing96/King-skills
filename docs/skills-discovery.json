@@ -1,0 +1,72 @@
+{
+  "method": "Codex app-server skills/list (forceReload=true)",
+  "codex_version": "0.166.0-alpha.1",
+  "skills": [
+    {
+      "name": "benchmark-paper-template",
+      "enabled": true,
+      "path": ".agents/skills/benchmark-paper-template/SKILL.md"
+    },
+    {
+      "name": "deep-research",
+      "enabled": true,
+      "path": ".agents/skills/deep-research/SKILL.md"
+    },
+    {
+      "name": "drawio-reconstruction",
+      "enabled": true,
+      "path": ".agents/skills/drawio-reconstruction/SKILL.md"
+    },
+    {
+      "name": "figure-designer",
+      "enabled": true,
+      "path": ".agents/skills/figure-designer/SKILL.md"
+    },
+    {
+      "name": "idea-evaluator",
+      "enabled": true,
+      "path": ".agents/skills/idea-evaluator/SKILL.md"
+    },
+    {
+      "name": "intro-drafter",
+      "enabled": true,
+      "path": ".agents/skills/intro-drafter/SKILL.md"
+    },
+    {
+      "name": "paper-polish",
+      "enabled": true,
+      "path": ".agents/skills/paper-polish/SKILL.md"
+    },
+    {
+      "name": "paper-writer",
+      "enabled": true,
+      "path": ".agents/skills/paper-writer/SKILL.md"
+    },
+    {
+      "name": "ppt-master",
+      "enabled": true,
+      "path": ".agents/skills/ppt-master/SKILL.md"
+    },
+    {
+      "name": "pre-submission-reviewer",
+      "enabled": true,
+      "path": ".agents/skills/pre-submission-reviewer/SKILL.md"
+    },
+    {
+      "name": "rebuttal-guidance",
+      "enabled": true,
+      "path": ".agents/skills/rebuttal-guidance/SKILL.md"
+    },
+    {
+      "name": "tech-paper-template",
+      "enabled": true,
+      "path": ".agents/skills/tech-paper-template/SKILL.md"
+    },
+    {
+      "name": "vibe-research-workflow",
+      "enabled": true,
+      "path": ".agents/skills/vibe-research-workflow/SKILL.md"
+    }
+  ],
+  "errors": []
+}
